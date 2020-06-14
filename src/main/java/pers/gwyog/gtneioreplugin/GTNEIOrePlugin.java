@@ -15,7 +15,7 @@ import java.util.HashSet;
 @Mod(modid = GTNEIOrePlugin.MODID, name = GTNEIOrePlugin.NAME, version = GTNEIOrePlugin.VERSION, dependencies = "required-after:gregtech;required-after:NotEnoughItems")
 public class GTNEIOrePlugin {
     public static final String MODID = "gtneioreplugin";
-    public static final String NAME = "GT NEI Ore Plugin GT:NH Mod";
+    public static final String NAME = "GT NEI Ore Plugin";
     public static final String VERSION = "@version@";
     public static final Logger LOG = LogManager.getLogger(NAME);
     public static boolean csv = false;
